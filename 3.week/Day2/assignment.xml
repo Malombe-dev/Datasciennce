@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexing>
+ <paragraph index="9" node_type="writer">Task</paragraph>
+ <paragraph index="10" node_type="writer">Using the sales dataset provided (Invoice ID, city, customertype, gender, product, itemprice, quantity, total, date, time, payment, customersalary, rating):</paragraph>
+ <paragraph index="11" node_type="writer">👉 Create one figure with 2 subplots side by side:</paragraph>
+ <paragraph index="12" node_type="writer">Line Graph → Show sales trend per month.</paragraph>
+ <paragraph index="13" node_type="writer">Bar Graph → Show total sales by city.</paragraph>
+</indexing>
